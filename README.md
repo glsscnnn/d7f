@@ -17,7 +17,7 @@ launcher: dmenu
 
 
 ## Build
-`sudo make clean install`
+`sudo make clean install`<br>
 **Dependencies**
 	- X11
 	- Xft
