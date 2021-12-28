@@ -6,8 +6,8 @@ You can see more at the suckless website [here](https://dwm.suckless.org/)
 
 ## Patches
 
-- [gaps]()
-- [startup]()
+- [gaps](https://dwm.suckless.org/patches/fullgaps/)
+- [startup](https://dwm.suckless.org/patches/autostart/)
 
 ## Defaults
 
